@@ -1,3 +1,7 @@
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 - 👋 Hi, I’m @karattebakabon
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
